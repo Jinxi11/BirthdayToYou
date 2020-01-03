@@ -31,9 +31,9 @@ var config = {
      */
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.jpeg",
-        "开心快乐，发财暴富，（★＞U＜★）": "./imgs/4.jpg",
+        "开心快乐，发财暴富，（★＞U＜★）": "./imgs/4.jpeg",
         "然后抱走": "./imgs/1.jpg",
-        "莹儿，也因牵着你的手，": "./imgs/5.jpg",
+        "莹儿，也因牵着你的手，": "./imgs/5.jpeg",
         "YAMI~~": "./imgs/7.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
